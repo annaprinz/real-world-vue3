@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+  db: https://my-json-server.typicode.com/annaprinz/real-world-vue3/events
